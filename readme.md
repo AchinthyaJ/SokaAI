@@ -54,6 +54,12 @@
 
 # 
 
+# ***3. \*\*Get your API key and replace\*\****
+
+# *** - Go to Together AI and sign up
+
+# *** - Go to your account settings and get your free API key***
+
 # ***3. \*\*Launch the App\*\****  
 
 #    ***- Double-click `SokaAI.exe` to run the app***  

@@ -9,7 +9,7 @@ from PySide6.QtWidgets import (
 )
 
 # === Together.ai free API settings ===
-API_KEY = "addf50d509e564a1854b00cb3ef42f2ca842b6950e55c683cf6ebda98aad20b7"
+API_KEY = "your_api_key_here"  # Replace with your actual API key
 MODEL = "mistralai/Mistral-7B-Instruct-v0.2"
 ENDPOINT = "https://api.together.xyz/v1/chat/completions"
 
