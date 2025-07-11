@@ -70,7 +70,7 @@ class ChatBotWindow(QWidget):
 
     def show_manual(self):
         """Display the quick manual for first-time users"""
-        manual_text = """📖 QUICK MANUAL - FLying AI
+        manual_text = """📖 QUICK MANUAL - Soka AI
         
 🔹 HOTKEYS:
    • Ctrl+M: Toggle minimize/restore window
